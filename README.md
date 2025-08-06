@@ -29,8 +29,8 @@ This project demonstrates a complete CI/CD pipeline using Jenkins, Docker, and G
    - Pushes the image to DockerHub under netrika0210/jenkins-node-app
 
 📦 DockerHub:
-Docker image is pushed here after successful Jenkins build:
 
+Docker image is pushed here after successful Jenkins build:
 - Image: https://hub.docker.com/repository/docker/netrika0210/jenkins-node-app
 
 🖥️ LOCAL SETUP (WSL - Windows Ubuntu)
@@ -63,11 +63,6 @@ Docker image is pushed here after successful Jenkins build:
 4. Open Jenkins on your browser
   = Go to: http://<EC2-IP>:8080
 
-👤 Author:
-Netrika Dongre
-- GitHub: https://github.com/netrikadongre-source
-- DockerHub: https://hub.docker.com/u/netrika0210
-
 🔐 Jenkins Credentials
 
 1. Add DockerHub credentials in Jenkins > Manage Credentials.
@@ -79,6 +74,11 @@ Netrika Dongre
 2. Point GitHub URL to:
   - https://github.com/netrikadongre-source/Task-2.git
 3. Jenkinsfile is auto-detected and used.
+
+👤 Author:
+Netrika Dongre
+- GitHub: https://github.com/netrikadongre-source
+- DockerHub: https://hub.docker.com/u/netrika0210
 
 📌License:
 MIT License – free to use, modify, and share.
