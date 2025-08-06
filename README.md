@@ -65,8 +65,8 @@ Docker image is pushed here after successful Jenkins build:
 
 👤 Author:
 Netrika Dongre
-GitHub: https://github.com/netrikadongre-source
-DockerHub: https://hub.docker.com/u/netrika0210
+- GitHub: https://github.com/netrikadongre-source
+- DockerHub: https://hub.docker.com/u/netrika0210
 
 🔐 Jenkins Credentials
 
